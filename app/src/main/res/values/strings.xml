@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mumbai</string>
+    <string name="category_places">Sights</string>
+    <string name="category_religious">Sanctum</string>
+    <string name="category_restaurant">Dining</string>
+    <string name="category_shopping">Shopping</string>
+</resources>
